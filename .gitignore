@@ -1,0 +1,6 @@
+# Ignorar variables de entorno sensibles
+.env
+
+# Ignorar carpetas y archivos generados
+/node_modules
+*.csv
